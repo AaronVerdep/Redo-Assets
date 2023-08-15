@@ -1,0 +1,1 @@
+For play, First, Go to INSTALL GAME.py, Install the game, When the file is downloaded put this folder in the "Redo" File.
